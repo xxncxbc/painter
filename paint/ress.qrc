@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>res/circle_udtuaqvaduof.svg</file>
+        <file>res/new_file_zd95d3grvcrr.svg</file>
+        <file>res/open_folder_2wnrzrmc83im.svg</file>
+        <file>res/rhomb_outline_abumlcw28ppg.svg</file>
+        <file>res/save_ocwlkbncu1nq.svg</file>
+        <file>res/square_n0n76xad9jge.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>res/color_ngpg5wvo75wq.svg</file>
+    </qresource>
+</RCC>
